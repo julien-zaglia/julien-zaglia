@@ -4,24 +4,24 @@
 
 ## About Me: 
 
-My name is Julien Zaglia, I'm 26, French and I live in Paris.
-I finished my studies as web & mobile developer at Doranco School.
-I am currently looking for an apprenticeship to start my career.
+My name is Julien Zaglia, I'm 26, French and I live in Paris.  
+I finished my studies as web & mobile developer at Doranco School.  
+I am currently looking for an apprenticeship to start my career.  
 
-I am actualy learning: 
--PHP 
--SYMFONY
--WORDPRESS
--SQL
--BOOTSRAP
--JS
--REACT
+I am actualy learning:  
+-PHP  
+-SYMFONY  
+-WORDPRESS  
+-SQL  
+-BOOTSRAP  
+-JS  
+-REACT  
 
-Here you will find some exercises that I did during my different lessons.
-Be lenient I’m still a beginner!
+Here you will find some exercises that I did during my different lessons.  
+Be lenient I’m still a beginner!  
 
 
-## Connect with me:
+## Connect with me:  
 
 
 
