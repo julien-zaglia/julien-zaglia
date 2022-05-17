@@ -30,25 +30,5 @@ Be lenient I’m still a beginner!
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/julius_zgl/?hl=fr)
 &nbsp;&nbsp;
-[![website](./img/email-dark.svg)](mailto:julien.zaglia@gmail.com")
+[![website](./img/email-dark.svg)](mailto:julien.zaglia@gmail.com)
 
-
-<br />
-<br />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Mail: julien.zaglia@gmail.com
